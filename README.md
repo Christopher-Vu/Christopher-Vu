@@ -36,7 +36,7 @@ I'm a 10th grader attending Whitney high school who codes predominantly in pytho
 
 <hr />
 
-### ** 📫 Contact Info
+### 📫 Contact Info
 - Discord : Chris V #7082
 - Gmail : Christophervu4@gmail.com
 - Replit : @ChrisMVu
