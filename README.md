@@ -9,7 +9,7 @@ I'm a 10th grader attending Whitney high school who codes predominantly in pytho
 
 <hr />
 
-### 📚 Experience
+### 📚 Experience / Education
 - nothing here yet :)
 
 <hr />
