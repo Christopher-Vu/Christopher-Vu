@@ -10,13 +10,20 @@ I'm a 10th grader attending Whitney high school who codes predominantly in pytho
 <hr />
 
 ### 📚 Experience / Education
-- nothing here yet :)
+- World Coding Club Hackathon participant 2022 
 
 <hr />
 
 ### Repositories
+
+Cheatsheets / Personal Documentation
 - Python Cheatsheet : https://github.com/ChrisMV2007/Python_Cheatsheet
+
+Personal Projects
 - Text Based Blackjack : https://github.com/ChrisMV2007/Blackjack 
+
+Hackathons and Competitions
+- World Coding Club Hackathon 2022 : https://github.com/ChrisMV2007/WCC-Hackathon-2022 
 
 <hr />
 
