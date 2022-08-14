@@ -4,13 +4,13 @@ I'm a 10th grader attending Whitney high school who codes predominantly in pytho
 
 <hr >
 
-### 🏆 Achievements
-- nothing here yet :)
+### 🏆 Achievements / Competitive Experience
+- 🥈 2nd Place 2022 World Coding Club Hackathon Competitor
 
 <hr />
 
-### 📚 Experience / Education
-- World Coding Club Hackathon participant 2022 
+### 📚 Working Experience / Formal Education
+- Nothing here yet :)
 
 <hr />
 
