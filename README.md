@@ -20,7 +20,7 @@ Cheatsheets / Personal Documentation
 - Python Cheatsheet : https://github.com/ChrisMV2007/Python_Cheatsheet
 
 Personal Projects
-- Text Based Blackjack : https://github.com/ChrisMV2007/Blackjack 
+- Micro Projects : https://github.com/ChrisMV2007/Micro-Projects
 
 Hackathons and Competitions
 - World Coding Club Hackathon 2022 : https://github.com/ChrisMV2007/WCC-Hackathon-2022 
