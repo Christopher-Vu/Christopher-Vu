@@ -10,7 +10,7 @@ I'm a 10th grader attending Whitney high school who codes predominantly in pytho
 <hr />
 
 ### 📚 Working Experience / Formal Education
-- - Currently Taking APCSP
+- Currently taking APCSP
 
 <hr />
 
