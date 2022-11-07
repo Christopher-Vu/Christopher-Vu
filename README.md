@@ -20,6 +20,7 @@ Cheatsheets / Personal Documentation
 - Python Cheatsheet : https://github.com/ChrisMV2007/Python_Cheatsheet
 
 Personal and Academic Projects
+- Stockbot : https://github.com/ChrisMV2007/StockBot
 - Micro Projects : https://github.com/ChrisMV2007/Micro-Projects
 - APCSP Projects : https://github.com/ChrisMV2007/APCSP_Projects
 
