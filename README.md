@@ -18,6 +18,7 @@ I'm a 10th grader attending Whitney high school who codes predominantly in pytho
 
 Cheatsheets / Personal Documentation
 - Python Cheatsheet : https://github.com/ChrisMV2007/Python_Cheatsheet
+- HTML / CSS / MarkDown Cheatsheets : https://github.com/ChrisMV2007/HTML-CSS-MD-Cheatsheets
 
 Personal and Academic Projects
 - Stockbot : https://github.com/ChrisMV2007/StockBot
