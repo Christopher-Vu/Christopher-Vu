@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Christopher.
 
-I'm a 10th grader attending Whitney high school who codes predominantly in python, but I'm looking to expand and have fullstack capabilities within the next couple of years. 
+I'm a 10th grader who codes predominantly in python, but I'm looking to expand and have fullstack capabilities within the next couple of years. 
 
 <hr >
 
