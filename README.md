@@ -26,7 +26,7 @@ Personal and Academic Projects
 - APCSP Projects : https://github.com/ChrisMV2007/APCSP_Projects
 
 Hackathons and Competitions
-- World Coding Club Hackathon 2022 : https://github.com/ChrisMV2007/WCC-Hackathon-2022 
+- AirFlex (2nd place WCC Hackathon 2022 Winner) : https://github.com/ChrisMV2007/WCC-Hackathon-2022 
 
 <hr />
 
