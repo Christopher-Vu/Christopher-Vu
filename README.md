@@ -41,14 +41,14 @@ Hackathons and Competitions
 
 ### 🚢 Languages I want to Learn
 
-React: ![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-Typescript: ![Typescript](https://img.shields.io/badge/typescript-6DA55F?style=for-the-badge&logo=typescript&logoColor=white)
-SQL: ![SQL](https://img.shields.io/badge/sql-%2300C4CC.svg?style=for-the-badge&logo=sql&logoColor=white)
-JavaScript: ![JavaScript](https://img.shields.io/badge/javascript-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-PostgreSQL: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-Node.js: ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-Redis: ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-Next.js: ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Typescript](https://img.shields.io/badge/typescript-6DA55F?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300C4CC.svg?style=for-the-badge&logo=sql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 
 <hr />
