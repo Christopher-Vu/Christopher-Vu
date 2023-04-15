@@ -11,7 +11,7 @@ I'm a 10th grader with python-based fullstack capabilites, and I am looking to e
 
 <!--
 ### 📚 Working Experience / Formal Education
-- Currently taking APCSP
+- Currently taking APCSP -->
 
 <hr />
 
@@ -22,7 +22,6 @@ Cheatsheets / Personal Documentation
 - HTML / CSS / MarkDown Cheatsheets : https://github.com/ChrisMV2007/HTML-CSS-MD-Cheatsheets
 
 Personal and Academic Projects
-<!--
 - Stockbot : https://github.com/ChrisMV2007/StockBot
 - Micro Projects : https://github.com/ChrisMV2007/Micro-Prots
 - APCSP Projects : https://github.com/ChrisMV2007/APCSP_Projects
