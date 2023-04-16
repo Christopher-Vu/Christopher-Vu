@@ -34,15 +34,15 @@ Hackathons and Competitions
 <hr />
 
 ### 🌐 Technologies I Work With
-![Python](https://img.shields.io/badge/Python-%23FF5F00.svg?style=for-the-badge&logo=python&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%23FFD700.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23FF8F00.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23FF0000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF1800.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23FF3000.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23E3FF00.svg?style=for-the-badge&logo=pandas&logoColor=black)
-![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%23ABFF00.svg?style=for-the-badge&logo=beautifulsoup&logoColor=white)
-![Async IO](https://img.shields.io/badge/Async%20IO-%23C7FF00.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23FF0000.svg?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%23FF1800.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23FF3000.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23FF4700.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF5F00.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23FF7700.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23FF8F00.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%23FFA700.svg?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+![Async IO](https://img.shields.io/badge/Async%20IO-%23FFBF00.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
 ### 🚢 Technologies I want to Learn
