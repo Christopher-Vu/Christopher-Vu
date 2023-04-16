@@ -46,20 +46,12 @@ Hackathons and Competitions
 
 
 ### 🚢 Technologies I want to Learn
-![React](https://img.shields.io/badge/React-%2300FF1C.svg?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%2300FF70.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23FFF000.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23FF5F00.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23FFD700.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23FFA700.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23FF0000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MikroORM](https://img.shields.io/badge/MikroORM-%23FF3000.svg?style=for-the-badge&logo=mikro-orm&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-%23FF8F00.svg?style=for-the-badge&logo=typeorm&logoColor=white)
-![URQL](https://img.shields.io/badge/URQL-%23000000.svg?style=for-the-badge&logo=urql&logoColor=white&color=FF7700)
-![Apollo](https://img.shields.io/badge/Apollo-%23333A41.svg?style=for-the-badge&logo=apollo-graphql&logoColor=white&color=FF8F00)
-![Chakra](https://img.shields.io/badge/Chakra-%23319791.svg?style=for-the-badge&logo=chakra-ui&logoColor=white&color=FFA700)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white&color=%23FFD700)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white&color=%23FFF000)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=%23E3FF00)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=%23C7FF00)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=%23ABFF00)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&color=%238FFF00)
 
 
 <hr />
