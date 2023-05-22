@@ -28,7 +28,7 @@ Personal and Academic Projects
 
 Hackathons and Competitions
 - AirFlex (2nd place WCC Hackathon 2022 Winner) : https://github.com/ChrisMV2007/WCC-Hackathon-2022 
-- EcoTracker (Abridged Version): https://github.com/ChrisMV2007/EcoTracker-Abr
+- EcoTracker (Abridged Version): https://github.com/ChrisMV2007/EcoTracker
 
 <hr />
 
