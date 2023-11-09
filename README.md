@@ -18,18 +18,18 @@ I'm a 10th grader with python-based fullstack capabilites, and I am looking to e
 ### Repositories
 
 Cheatsheets / Personal Documentation
-- Python Cheatsheet : https://github.com/ChrisMV2007/Python_Cheatsheet
-- HTML / CSS / MarkDown Cheatsheets : https://github.com/ChrisMV2007/HTML-CSS-MD-Cheatsheets
+- Python Cheatsheet : https://github.com/Christopher-Vu/Python_Cheatsheet
+- HTML / CSS / MarkDown Cheatsheets : https://github.com/Christopher-Vu/HTML-CSS-MD-Cheatsheets
 
 Personal and Academic Projects
-- Stockbot : https://github.com/ChrisMV2007/StockBot
-- Micro Projects : https://github.com/ChrisMV2007/Micro-Prots
-- APCSP Projects : https://github.com/ChrisMV2007/APCSP_Projects
-- Surfrider WHS site : https://github.com/ChrisMV2007/Surfrider-WHS
+- Stockbot : https://github.com/Christopher-Vu/StockBot
+- Micro Projects : https://github.com/Christopher-Vu/Micro-Prots
+- APCSP Projects : https://github.com/Christopher-Vu/APCSP_Projects
+- Surfrider WHS site : https://github.com/Christopher-Vu/Surfrider-WHS
 
 Hackathons and Competitions
-- AirFlex (2nd place WCC Hackathon 2022 Winner) : https://github.com/ChrisMV2007/WCC-Hackathon-2022 
-- EcoTracker (Abridged Version): https://github.com/ChrisMV2007/EcoTracker
+- AirFlex (2nd place WCC Hackathon 2022 Winner) : https://github.com/Christopher-Vu/WCC-Hackathon-2022 
+- EcoTracker (Abridged Version): https://github.com/Christopher-Vu/EcoTracker
 
 <hr />
 
