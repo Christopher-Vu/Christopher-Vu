@@ -25,6 +25,7 @@ Personal and Academic Projects
 - Stockbot : https://github.com/ChrisMV2007/StockBot
 - Micro Projects : https://github.com/ChrisMV2007/Micro-Prots
 - APCSP Projects : https://github.com/ChrisMV2007/APCSP_Projects
+- Surfrider WHS site : https://github.com/ChrisMV2007/Surfrider-WHS
 
 Hackathons and Competitions
 - AirFlex (2nd place WCC Hackathon 2022 Winner) : https://github.com/ChrisMV2007/WCC-Hackathon-2022 
