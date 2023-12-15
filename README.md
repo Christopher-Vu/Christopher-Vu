@@ -1,11 +1,12 @@
 # Hi there 👋, I'm Christopher.
 
-I'm a 10th grader with python-based fullstack capabilites, and I am looking to expand my tech stack to include depper knowledge in javascript frameworks and database management.
+I'm an 11th grader with python-based fullstack capabilites, and I am looking to expand my tech stack to include deeper knowledge in javascript frameworks and database management.
 
 <hr >
 
 ### 🏆 Achievements / Competitive Experience
 - 🥈 2nd Place 2022 World Coding Club Hackathon Competitor
+- 🥇 1st Place 2023 Congressional App Challenge Winner
 
 <hr />
 
