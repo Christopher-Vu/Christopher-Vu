@@ -1,38 +1,6 @@
 # Hi there 👋, I'm Christopher.
 
-I'm an 11th grader with python-based fullstack capabilites, and I am looking to expand my tech stack to include deeper knowledge in javascript frameworks and database management.
-
-<hr >
-
-### 🏆 Achievements / Competitive Experience
-- 🥈 2nd Place 2022 World Coding Club Hackathon Competitor
-- 🥇 1st Place 2023 Congressional App Challenge Winner
-
-<hr />
-
-<!--
-### 📚 Working Experience / Formal Education
-- Currently taking APCSP -->
-
-<hr />
-
-### Repositories
-
-Cheatsheets / Personal Documentation
-- Python Cheatsheet : https://github.com/Christopher-Vu/Python_Cheatsheet
-- HTML / CSS / MarkDown Cheatsheets : https://github.com/Christopher-Vu/HTML-CSS-MD-Cheatsheets
-
-Personal and Academic Projects
-- Stockbot : https://github.com/Christopher-Vu/StockBot
-- Micro Projects : https://github.com/Christopher-Vu/Micro-Prots
-- APCSP Projects : https://github.com/Christopher-Vu/APCSP_Projects
-- Surfrider WHS site : https://github.com/Christopher-Vu/Surfrider-WHS
-
-Hackathons and Competitions
-- AirFlex (2nd place WCC Hackathon 2022 Winner) : https://github.com/Christopher-Vu/WCC-Hackathon-2022 
-- EcoTracker (Abridged Version): https://github.com/Christopher-Vu/EcoTracker
-
-<hr />
+I'm an UC Berkeley Data Science freshman with python-based fullstack capabilites, and I am eager to expand my tech stack.
 
 ### 🌐 Technologies I Work With
 ![Python](https://img.shields.io/badge/Python-%23FF0000.svg?style=for-the-badge&logo=python&logoColor=white)
